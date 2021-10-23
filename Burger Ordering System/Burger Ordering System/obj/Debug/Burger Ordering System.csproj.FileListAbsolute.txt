@@ -1,0 +1,10 @@
+D:\PROGRAM\C# Program\Burger Ordering System\Burger Ordering System\bin\Debug\Burger Ordering System.exe.config
+D:\PROGRAM\C# Program\Burger Ordering System\Burger Ordering System\bin\Debug\Burger Ordering System.exe
+D:\PROGRAM\C# Program\Burger Ordering System\Burger Ordering System\bin\Debug\Burger Ordering System.pdb
+D:\PROGRAM\C# Program\Burger Ordering System\Burger Ordering System\obj\Debug\Burger Ordering System.csproj.AssemblyReference.cache
+D:\PROGRAM\C# Program\Burger Ordering System\Burger Ordering System\obj\Debug\Burger_Ordering_System.Form1.resources
+D:\PROGRAM\C# Program\Burger Ordering System\Burger Ordering System\obj\Debug\Burger_Ordering_System.Properties.Resources.resources
+D:\PROGRAM\C# Program\Burger Ordering System\Burger Ordering System\obj\Debug\Burger Ordering System.csproj.GenerateResource.cache
+D:\PROGRAM\C# Program\Burger Ordering System\Burger Ordering System\obj\Debug\Burger Ordering System.csproj.CoreCompileInputs.cache
+D:\PROGRAM\C# Program\Burger Ordering System\Burger Ordering System\obj\Debug\Burger Ordering System.exe
+D:\PROGRAM\C# Program\Burger Ordering System\Burger Ordering System\obj\Debug\Burger Ordering System.pdb
