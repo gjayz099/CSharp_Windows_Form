@@ -1,0 +1,25 @@
+D:\PROGRAM\C# Program\Delivery System Windows Form\Delivery System\bin\Debug\Delivery System.exe.config
+D:\PROGRAM\C# Program\Delivery System Windows Form\Delivery System\bin\Debug\Delivery System.exe
+D:\PROGRAM\C# Program\Delivery System Windows Form\Delivery System\bin\Debug\Delivery System.pdb
+D:\PROGRAM\C# Program\Delivery System Windows Form\Delivery System\obj\Debug\Delivery System.csproj.AssemblyReference.cache
+D:\PROGRAM\C# Program\Delivery System Windows Form\Delivery System\obj\Debug\Delivery_System.Form1.resources
+D:\PROGRAM\C# Program\Delivery System Windows Form\Delivery System\obj\Debug\Delivery_System.Properties.Resources.resources
+D:\PROGRAM\C# Program\Delivery System Windows Form\Delivery System\obj\Debug\Delivery System.csproj.GenerateResource.cache
+D:\PROGRAM\C# Program\Delivery System Windows Form\Delivery System\obj\Debug\Delivery System.csproj.CoreCompileInputs.cache
+D:\PROGRAM\C# Program\Delivery System Windows Form\Delivery System\obj\Debug\Delivery System.exe
+D:\PROGRAM\C# Program\Delivery System Windows Form\Delivery System\obj\Debug\Delivery System.pdb
+D:\PROGRAM\C# Program\Delivery System Windows Form\Delivery System\bin\Debug\MySql.Data.dll
+D:\PROGRAM\C# Program\Delivery System Windows Form\Delivery System\bin\Debug\Google.Protobuf.dll
+D:\PROGRAM\C# Program\Delivery System Windows Form\Delivery System\bin\Debug\Zstandard.Net.dll
+D:\PROGRAM\C# Program\Delivery System Windows Form\Delivery System\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\PROGRAM\C# Program\Delivery System Windows Form\Delivery System\bin\Debug\BouncyCastle.Crypto.dll
+D:\PROGRAM\C# Program\Delivery System Windows Form\Delivery System\bin\Debug\Ubiety.Dns.Core.dll
+D:\PROGRAM\C# Program\Delivery System Windows Form\Delivery System\bin\Debug\System.Memory.dll
+D:\PROGRAM\C# Program\Delivery System Windows Form\Delivery System\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\PROGRAM\C# Program\Delivery System Windows Form\Delivery System\bin\Debug\System.Buffers.dll
+D:\PROGRAM\C# Program\Delivery System Windows Form\Delivery System\bin\Debug\K4os.Compression.LZ4.dll
+D:\PROGRAM\C# Program\Delivery System Windows Form\Delivery System\bin\Debug\K4os.Hash.xxHash.dll
+D:\PROGRAM\C# Program\Delivery System Windows Form\Delivery System\bin\Debug\System.Numerics.Vectors.dll
+D:\PROGRAM\C# Program\Delivery System Windows Form\Delivery System\bin\Debug\MySql.Data.xml
+D:\PROGRAM\C# Program\Delivery System Windows Form\Delivery System\obj\Debug\Delivery_System.Form2.resources
+D:\PROGRAM\C# Program\Delivery System Windows Form\Delivery System\obj\Debug\Delivery_System.Form3.resources
